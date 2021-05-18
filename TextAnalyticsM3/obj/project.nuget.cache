@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFQo0q0dhTAgSyRW+GULC3tdmOAIsGD0k47Ij01ha9GZ1+VA3KEGwmEnai8cVa1wVvBU9/77gukGkuB2HFpbfA==",
+  "success": true,
+  "projectFilePath": "D:\\TrabajoProyectos\\AI-102Proyects\\TextAnalyticsM3\\TextAnalyticsM3\\TextAnalyticsM3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40024436\\.nuget\\packages\\azure.ai.textanalytics\\5.0.0\\azure.ai.textanalytics.5.0.0.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\40024436\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
